@@ -87,7 +87,7 @@ def organizeFile():
                     os.mkdir(userFolder + "/" + fileType) 
                 shutil.move(fullFilePath, userFolder + "/" + fileType + "/" + file)
 
-print('Welcome to the Basic File Organizer 🗄️ ! \nThis is a casual project for me to train my Python IT Automation Skills :)\n')
+print('Welcome to the Python File Sorter V1 🗄️ ! \nThis is a casual project for me to train my Python IT Automation Skills :)\n')
 print('Note: Subfolders in the directory will not be categorized/organized.')
 userFolder = input('Please enter the path of the folder you want to organize: ').replace('\\', '')
 confirmation()

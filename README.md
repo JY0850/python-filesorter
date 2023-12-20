@@ -1,4 +1,5 @@
 # Python File Sorter 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/JY0850/python-filesorter/blob/main/LICENSE)
 
 This is a very beginner, simple file-sorting script I created to train my Python automation skills. 💻
 

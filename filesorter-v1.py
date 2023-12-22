@@ -72,6 +72,7 @@ def organizeFile():
     'Documents': ['.pdf', '.docx', '.xlsx', '.txt'],
     'Audio': ['.mp3', '.wav', '.flac'],
     'Archives': ['.zip', '.rar', '.7z', '.tar'],
+    'Source Code': ['.html', '.css', '.js', '.php', '.py', '.java', '.cpp', '.c', '.rb', '.pl', '.swift', '.ts', '.vb', '.sql', '.xml', '.json', '.scss', '.less', '.dart', '.sh', '.py', '.jar'],
     'Misc': []
     }
     

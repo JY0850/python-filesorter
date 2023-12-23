@@ -2,8 +2,7 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://github.com/JY0850/python-filesorter/blob/main/LICENSE)
 
 ## Demo Video
-
-https://github.com/JY0850/python-filesorter/assets/100205730/5d25604a-82b9-4b3d-8052-fc836df29fe3
+https://github.com/JY0850/python-filesorter/assets/100205730/1c24a345-9f0f-4238-be65-08c2c43ffb68
 
 # General Information
 **Version 1.0 - Only been tested on macOS system, running Python 3.11.3.**

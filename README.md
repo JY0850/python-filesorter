@@ -6,7 +6,7 @@
 https://github.com/JY0850/python-filesorter/assets/100205730/5d25604a-82b9-4b3d-8052-fc836df29fe3
 
 # General Information
-**Version 1.0 - Only been tested on macOS system, running Python 3.11.3.**
+**Version 0.1 - Only been tested on macOS system, running Python 3.11.3.**
 
 ### Instructions
 - Run the script, drag and drop any folders from your computer **(run as sudo for directories requiring admin privileges).**

@@ -1,3 +1,6 @@
+# Python File Sorter - Version 0.1
+# Created By: Jason Y
+
 import os, time, shutil, sys
 
 # Clearing Console
